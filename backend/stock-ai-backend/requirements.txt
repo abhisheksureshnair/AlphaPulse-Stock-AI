@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+yfinance
+ta
+pandas
+openai
+python-dotenv
+sqlalchemy
+aiosqlite
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt
+python-multipart
