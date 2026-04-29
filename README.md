@@ -1,3 +1,5 @@
+![AlphaPulse Banner](assets/banner.png)
+
 # AlphaPulse Stock AI Assistant
 
 An advanced, AI-powered stock market analysis and portfolio management system. This project combines a high-performance **FastAPI** backend with two premium mobile frontends: **Flutter** and **React Native**, providing real-time technical analysis, multi-agent AI investment insights, and secure portfolio tracking across platforms.
